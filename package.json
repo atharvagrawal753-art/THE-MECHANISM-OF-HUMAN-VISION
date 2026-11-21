@@ -1,0 +1,1 @@
+{"name":"human-vision-presentation","version":"1.0.0","scripts":{"build":"node build.js","start":"node serve.js"},"devDependencies":{"typescript":"^5.4.0"}}

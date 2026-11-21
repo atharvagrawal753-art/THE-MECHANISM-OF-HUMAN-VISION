@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2019","lib":["ES2019","DOM"],"strict":true,"rootDir":"src","outDir":"dist","noEmitOnError":true,"types":[]},"files":["src/optics.ts"]}

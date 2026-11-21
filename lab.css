@@ -1,0 +1,9 @@
+#lab{position:fixed;inset:0;z-index:55;background:rgba(2,4,12,.86);display:flex;align-items:center;justify-content:center}
+#lab>div{width:min(680px,94vw);max-height:92vh;overflow:auto;background:#0e1736;border:1px solid var(--c);border-radius:18px;padding:20px;color:#e8f1ff;position:relative}
+#lab canvas{width:100%;border-radius:12px;background:#060b1c}
+#lab .x{position:absolute;right:12px;top:6px;background:none;border:0;color:#fff;font-size:22px;cursor:pointer}
+#lab label{display:block;margin:8px 0 2px;font-size:13px;color:var(--m)}#lab input{width:100%}
+.lrow{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+#blur{font:800 56px sans-serif;color:#fff;transition:filter .2s;width:90px;text-align:center}
+.tag{padding:4px 10px;border-radius:99px;font-weight:700;font-size:13px}
+.good{background:#1d7a4d}.bad{background:#8a2740}
